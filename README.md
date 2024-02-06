@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there, I'm W8CODE!
+hello world, i'm W8CODE!
 </h1>
 
 
