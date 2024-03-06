@@ -25,6 +25,8 @@ things i've learned:
 <span/>
 
 
+![Snake animation](https://github.com/W8CODE/W8CODE/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=023c59&section=footer">
