@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-lanuages i know:
+things i've learned:
 </h1>
     
 <span>  
@@ -20,5 +20,12 @@ lanuages i know:
   <img align="center" alt="CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="TS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="TS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <div/>
 <span/>
+
+
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=023c59&section=footer">
+</p>
